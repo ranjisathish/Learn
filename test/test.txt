@@ -1,1 +1,8 @@
-Welocme to git
+Welocme to git....
+Learning to push the code
+1.git clone https://github.com/ranjisathish/Learn.git
+2.goto the folder cd Learn
+3.git status
+4.Make changes in the file
+5.git status ---U can see the changes made in red
+6.git commit -m "msg"     ---msg for the commit done  
