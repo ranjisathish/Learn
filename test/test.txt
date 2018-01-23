@@ -7,4 +7,10 @@ Learning to push the code
 5.git status               ---U can see the changes made in red
 6.git commit -m "msg"     ---msg for the commit done 
 7.git remote -v            --to know which is the origin
-8.git push origin master     
+8.git push origin master    
+9.git branch Learnbranch
+10.git checkout Learnbranch
+
+---To merge into the master branch
+git checkout master
+git merge Learnbranch 
